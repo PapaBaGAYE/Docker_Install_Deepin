@@ -32,4 +32,7 @@ sudo apt-get install docker-ce
 docker --version
 ```
 
+```
+sudo apt-get install docker-compose
+```
 
